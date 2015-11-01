@@ -1,0 +1,21 @@
+@import url(https://googledrive.com/host/0BxjwQr0BBXs-aDYxM2JlaFM2bnM);
+/*
+DISPLAY ANIME/MANGA TITLE PICS
+This is the CSS to control and reveal title pics. 
+You'll need #more CSS or a import link to one in your CSS too. 
+Got a question or want to learn more? Try this link:
+
+Change background-size from "auto" to "contain" and then adjust height to change the size
+of the pics. Move the pics to the left with margin-left, by adding an amount to it.
+*/
+.hide {
+background-size: auto;
+height: 310px;
+
+background-position: left top;
+background-repeat: no-repeat;
+display: inline-block !important;
+
+position: relative;
+width: 245px !important;
+}
