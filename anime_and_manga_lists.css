@@ -1,0 +1,13 @@
+@import url(https://raw.githubusercontent.com/unlimwd/MALSimpleThumbnailCSS/master/manga.css);
+
+@import url(https://googledrive.com/host/0BxjwQr0BBXs-aDYxM2JlaFM2bnM);
+
+.hide {
+    background-size: auto;
+    height: 310px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    display: inline-block ;
+    position: relative;
+    width: 245px ;
+}
